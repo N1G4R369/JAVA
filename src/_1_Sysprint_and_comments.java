@@ -11,6 +11,6 @@ public class _1_Sysprint_and_comments {
         System.out.println("Your name is not  Nigar Kirilova!");
         // slash n asgi setire kecir
 ////////////////////////////
-/////////////////
+
     }
 }
