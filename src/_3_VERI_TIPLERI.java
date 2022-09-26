@@ -1,5 +1,5 @@
 
-public class _2_VERI_TIPLERI {
+public class _3_VERI_TIPLERI {
 
 
     public static void main(String[] args) {
@@ -19,11 +19,11 @@ public class _2_VERI_TIPLERI {
 
         long boyuk_reqem = 1631456511;
         System.out.println(boyuk_reqem);
-        //en boyuk data tipidiiiiiii
+        //en boyuk data tipidi
 
         double kesr_eded =96.3;
         System.out.println(kesr_eded);
-        //kesr edeleri ozunde saxliyir
+        ////kesr edeleri ozunde saxliyir
 
         char karakter = '$';
         System.out.println(karakter);
