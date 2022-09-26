@@ -10,7 +10,7 @@ public class _1_Sysprint_and_comments {
         System.out.print("MY name is Nigar Kirilova!\n");
         System.out.println("Your name is not  Nigar Kirilova!");
         // slash n asgi setire kecir
-
+////////////////////////////
 
     }
 }
