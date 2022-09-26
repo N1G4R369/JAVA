@@ -5,6 +5,7 @@ public class _2_DEYISGENLER {
         /*burda yaradacagimiz deyisgenin (yani icine datamizi yigacagimiz qutu kimi tesevvur edek )
         tipini yaziriq(string ve ya integer kimi ) sonra deyisgenimize ad veririk (reqem, metn).
         sonra ise yaratdigimiz deyisgenin icine datamizi qoyuruq (12345 ,hey!)
+        //////
         */
 
         int reqem = 12345;
