@@ -19,5 +19,7 @@ public class _9_QIYMET_HESABLAMA {
         int hesab= komputer_pulu+server_pulu+switches_pulu;
         System.out.println(" umumi odemeli oldugunuz mebleq : " + hesab + " azndir");
 
+
+        /* burda da verdiyimiz esyalari musterinin secdiyi saya uygun umumi odenmilmeli meblegi hesablayib musteriye gorsedir*/
     }
 }
