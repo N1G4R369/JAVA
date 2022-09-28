@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class _10_IF_ELSE_SERTI {
     public static void main(String[] args) {
 
+
+        ///birinci numune
+
+
         Scanner scanner = new Scanner(System.in);
         System.out.print("reqem yazin : ");
         int reqem = scanner.nextInt();
@@ -22,7 +26,7 @@ public class _10_IF_ELSE_SERTI {
         System.out.println(" ");
 
 
-
+        ///ikinci numune
         Scanner scanners = new Scanner (System.in);
         System.out.println("reqem8 yazin : ");
         int reqem_8= scanners.nextInt();
