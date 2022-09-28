@@ -28,7 +28,7 @@ public class _11_YAS_HEDDININ_YOXLANILMASI {
         }
 
         else {
-            System.out.println("yas hediniz senedler verilmesi ucun uygun deyildir");
+            System.out.println("yas hediiniz senedler verilmesi ucun uygun deyildir");
         }
     }
 }
