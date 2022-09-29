@@ -1,6 +1,4 @@
-package username;
-
-import jdk.internal.org.objectweb.asm.tree.MultiANewArrayInsnNode;
+package username_ve_parolun_yoxlanilmasi;
 
 import java.util.Scanner;
 
