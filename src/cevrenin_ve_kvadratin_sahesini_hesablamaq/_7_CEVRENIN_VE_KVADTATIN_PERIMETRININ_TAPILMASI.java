@@ -1,3 +1,5 @@
+package cevrenin_ve_kvadratin_sahesini_hesablamaq;
+
 import java.util.Scanner;
 
 public class _7_CEVRENIN_VE_KVADTATIN_PERIMETRININ_TAPILMASI {

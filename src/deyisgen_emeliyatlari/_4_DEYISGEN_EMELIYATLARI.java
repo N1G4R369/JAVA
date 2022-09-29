@@ -1,3 +1,5 @@
+package deyisgen_emeliyatlari;
+
 public class _4_DEYISGEN_EMELIYATLARI {
 
     public static void main(String[] args) {

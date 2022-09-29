@@ -1,3 +1,5 @@
+package userden_data_almaq;
+
 import java.util.Scanner;
 /*userden melumati ekran kenari istifade etmek ucun olan kod */
 

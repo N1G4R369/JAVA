@@ -1,3 +1,5 @@
+package if_else_serti;
+
 import java.util.Scanner;
 
 public class _10_IF_ELSE_SERTI {

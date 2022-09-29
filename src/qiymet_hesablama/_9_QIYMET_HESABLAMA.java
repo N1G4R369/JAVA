@@ -1,3 +1,5 @@
+package qiymet_hesablama;
+
 import java.util.Scanner;
 
 public class _9_QIYMET_HESABLAMA {

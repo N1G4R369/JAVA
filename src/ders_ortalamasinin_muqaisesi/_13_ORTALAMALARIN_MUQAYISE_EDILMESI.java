@@ -1,3 +1,5 @@
+package ders_ortalamasinin_muqaisesi;
+
 import java.util.Scanner;
 
 public class _13_ORTALAMALARIN_MUQAYISE_EDILMESI {

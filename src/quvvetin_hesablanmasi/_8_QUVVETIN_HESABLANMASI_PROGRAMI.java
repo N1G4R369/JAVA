@@ -1,3 +1,5 @@
+package quvvetin_hesablanmasi;
+
 import java.util.Scanner;
 
 public class _8_QUVVETIN_HESABLANMASI_PROGRAMI {

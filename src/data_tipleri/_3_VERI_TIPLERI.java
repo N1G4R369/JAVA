@@ -1,3 +1,4 @@
+package data_tipleri;
 
 public class _3_VERI_TIPLERI {
 

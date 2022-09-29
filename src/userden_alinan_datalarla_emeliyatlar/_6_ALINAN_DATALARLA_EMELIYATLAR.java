@@ -1,3 +1,5 @@
+package userden_alinan_datalarla_emeliyatlar;
+
 import java.util.Scanner;
 
 public class _6_ALINAN_DATALARLA_EMELIYATLAR {
