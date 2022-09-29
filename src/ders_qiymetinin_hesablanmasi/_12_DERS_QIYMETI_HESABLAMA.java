@@ -1,3 +1,5 @@
+package ders_qiymetinin_hesablanmasi;
+
 import java.util.Scanner;
 
 public class _12_DERS_QIYMETI_HESABLAMA {
