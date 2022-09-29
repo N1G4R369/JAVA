@@ -1,4 +1,3 @@
-import java.util.Date;
 import java.util.Scanner;
 
 public class _12_DERS_QIYMETI_HESABLAMA {
