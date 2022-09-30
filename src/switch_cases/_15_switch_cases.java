@@ -1,6 +1,8 @@
 package switch_cases;
 
 import java.util.Scanner;
+/*swirch case if else in alternatividi , eyni isi gorurler ele */
+
 
 public class _15_switch_cases {
     public static void main(String[] args) {
