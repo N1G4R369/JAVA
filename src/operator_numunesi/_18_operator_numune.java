@@ -1,3 +1,5 @@
+package operator_numunesi;
+
 import java.util.Scanner;
 //3 dene reqem yazir user oda yoxlayir eger bu ededlerden hec olmasa biri 2 e bolunurse onda  tebrikler sozu gelir
 // amma hecbir 2 e bolunmurse onda uduzdunuz yazilir .
