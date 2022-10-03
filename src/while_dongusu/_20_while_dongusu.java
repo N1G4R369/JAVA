@@ -7,7 +7,7 @@ public class _20_while_dongusu {
         while (i < 10)
         {
             System.out.println("nigar kirilova ");
-            i = i++;
+            i++;
         }
 
         System.out.println("loop bitdi ");
