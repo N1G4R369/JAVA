@@ -7,20 +7,23 @@ public class eyniProsesiDoWhileIleEtmek {
 
         Scanner input =new Scanner(System.in);
         int toplama = 0;
-        int reqem ;
+       // int reqem ;
 
         int say=0;
         do {
             System.out.println("5 yaz :");
-            reqem=input.nextInt();
+            //reqem=input.nextInt();
+            say=input.nextInt();
 
 
-            if (reqem==5){
+            //if (reqem==5){
+            if (say==5){
 
                 break;
             }
-            say++;
-            toplama+=reqem;
+           // say++;
+           // toplama+=reqem;
+            toplama+=say;
         }
         while(say<10);
         System.out.println("cavab :"+ toplama);
@@ -28,5 +31,5 @@ public class eyniProsesiDoWhileIleEtmek {
 
     }
 }
-
+/* burda elave olaraq commente yazdigim yerleri commetden cixarsaq da isleyer amma diger  hisseleri commente salmaq lazim di */
 /*sert 5 olana qeder girilen butun reqemleri toplayir . eger 5 olarsa da dayanir loop */
