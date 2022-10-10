@@ -33,3 +33,6 @@ public class netceniForIleYazmaq {
         System.out.println("umumi tek " + toplamatek);
     }
 }
+
+/*  burda user 10 dene reqem yazir yazdigi reqemlerin cut ve ya tek oldugu yazili ve sonda 10
+ dene reqemin hamsin yadigda bitende cut ve tek reqemlerin ayriiqda cemi gorunur  */
