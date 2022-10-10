@@ -16,13 +16,22 @@ public class CutReqemleriWhilelaCixarmaq {
         int ikinci = input.nextInt();
 
         int i = birinci;
-            while (i <ikinci){
-                i++;
-                if (i%2==0) {
-                    System.out.println("cut reqemler :"+i);
 
+        if (birinci >ikinci)
+        {
+            System.out.println("zehmet olmasa birinci reqemi ikinciden kicik yazin ");
+        }
+
+        else{
+                while (i <=ikinci){
+                    i++;
+                    if (i%2==0) {
+
+                        System.out.println("cut reqemler :" + i);
+                    }
                 }
             }
+
     }
 
 }

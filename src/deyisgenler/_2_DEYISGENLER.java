@@ -10,6 +10,8 @@ public class _2_DEYISGENLER {
         //////
         */
 
+
+
         int reqem = 12345;
         String metn= "hey!";
         System.out.println(reqem);
