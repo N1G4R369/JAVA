@@ -6,7 +6,7 @@ public class ededler_yazib_array_icinde_muqaiseler {
     public static void main(String[] args) {
         Scanner input =new Scanner(System.in);
         int[] reqemler = new int[10];
-        int ilk_son_toplama=0;
+        int ilksontoplama=0;
         int umumiToplam=0;
 
         for (int i = 1; i<=5;i++)
@@ -23,10 +23,10 @@ public class ededler_yazib_array_icinde_muqaiseler {
 
         System.out.println("umumi toplama : "+ umumiToplam );
 
-        ilk_son_toplama=reqemler[1]+reqemler[5];
-        System.out.println("ilktoplam : "+ilk_son_toplama);
+        ilksontoplama=reqemler[1]+reqemler[5];
+        System.out.println("ilktoplam : "+ilksontoplama);
 
-        double ortalama =+ ilk_son_toplama/umumiToplam;
+        float ortalama = ilksontoplama/umumiToplam;
         System.out.println("ortalama qiymeti : "+ortalama );
 
     }
