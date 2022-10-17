@@ -23,3 +23,5 @@ public class userinVerdiyiDataIleArrayYaratmaq {
     }
 }
 /*  burda da  serirleri 2 -2 artiran ,sutunlari ise 10 -10 artiran matrix yaradiriq.*/
+
+
