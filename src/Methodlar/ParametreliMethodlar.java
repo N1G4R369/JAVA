@@ -19,3 +19,6 @@ public class ParametreliMethodlar {
         ortalamaTap(reqem_1,reqem_2);
     }
 }
+
+
+/*burda yaratdigimiz methoda asagida mainin icinde de istifade ede bilerk deye parametrli yaziriq.*/
