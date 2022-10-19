@@ -30,4 +30,4 @@ enBoyuk(reqem_1,reqem_2);
     }
 }
 
-/*burda da yoxlayir ki userin girdiyir parametrli methodadahansi boyukdu , ve methodu asagida ayrica cagiraraq  boyuk olani cixarir.*/
+/*burda da yoxlayir ki userin girdiyir parametrli methodada hansi boyukdu , ve methodu asagida ayrica cagiraraq  boyuk olani cixarir.*/
