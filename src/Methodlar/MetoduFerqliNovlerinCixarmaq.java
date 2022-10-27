@@ -29,13 +29,14 @@ public class MetoduFerqliNovlerinCixarmaq {
 
 
 
-    /* burda da */
+    /* burda da eyni adda */
 
     public static void main(String[] args) {
        ortalamaCixarmaq(20,30,40);
        ortalamaCixarmaq(50,60);
 
-
+        kvadratinAlmaq(5);
+        kvadratinAlmaq(8.2);
 
 
 
